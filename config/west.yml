@@ -4,15 +4,15 @@ manifest:
       url-base: https://github.com/zmkfirmware
     - name: sayu-hub
       url-base: https://github.com/sayu-hub
-    - name: 404Naoki
-      url-base: https://github.com/404Naoki
+    - name: shoyoshikane
+      url-base: https://github.com/shoyoshikane
   projects:
     - name: zmk
       remote: zmkfirmware
       revision: main
       import: app/west.yml
     - name: zmk-pmw3610-driver
-      remote: 404Naoki
+      remote: shoyoshikane
       revision: main
   self:
     path: config
