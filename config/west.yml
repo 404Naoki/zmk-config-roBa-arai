@@ -4,6 +4,8 @@ manifest:
       url-base: https://github.com/zmkfirmware
     - name: sayu-hub
       url-base: https://github.com/sayu-hub
+    - name: 404Naoki
+      url-base: https://github.com/404Naoki
   projects:
     - name: zmk
       remote: zmkfirmware
